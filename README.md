@@ -1,2 +1,0 @@
-# labnpadiko
-service en ligne
